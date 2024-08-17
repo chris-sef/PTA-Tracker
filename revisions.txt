@@ -1,0 +1,15 @@
+student id / lrn
+name
+grade 
+name of parents
+school year
+department 
+course/strand
+
+search/find
+
+history
+
+database update
+
+future proof
